@@ -16,9 +16,9 @@ Instead of scanning all possible subarrays or substrings, use two pointers i and
 
 ### leetcode Question 
 
-![125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+[https://leetcode.com/problems/valid-palindrome/description/](# 125. Valid Palindrome)
 
-![15. 3Sum](https://leetcode.com/problems/3sum/description/)
+[https://leetcode.com/problems/3sum/description/](# 15. 3Sum)
 
-![11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+[https://leetcode.com/problems/container-with-most-water/description/](11. Container With Most Water)
 
