@@ -88,17 +88,3 @@ const buildgraph =(edges) =>{
     }
     return graph;
 };
-const edges = [
-    ['i', 'j'],
-    ['k', 'i'],
-    ['m', 'k'],
-    ['k', 'l'],
-    ['o', 'n']
-  ];
-
-if(undirectedPath(edges,'i','m')===true){
-    console.log(true);
-}
-else{
-    console.log(false)
-}
