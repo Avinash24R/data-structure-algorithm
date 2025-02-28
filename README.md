@@ -6,6 +6,8 @@ here is all the coding patterns you need to know, when to use them, what the ben
 
 1. Sliding Window
 2. Two pointers
+3. Fast and Slow pointers
+4. Graph
 
 
 
