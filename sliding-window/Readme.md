@@ -15,12 +15,14 @@ In the sliding window, you have 2 pointers, i and j. Move j as far as you can un
 
 ### Dynamic Sliding Window
 
-![image](C:\Users\avigu\OneDrive\Desktop\code\DSA\sliding window\Screenshot 2024-12-05 095139.png)
+
+![Screenshot 2024-12-05 095139](https://github.com/user-attachments/assets/1d5e7ee5-5100-4b9d-a713-fd2852c81ea7)
+
 
 In the dynamic sliding window, the size of the window (subarray between i and j) changes throughout the algorithm. In this example, we scan the subarray “bacb” and find that we have a duplicate “b”, so we will move the i pointer to shrink the window and move on to letter “a”, resulting in “acb”, then we start moving j again.
 
 ### Fixed Sliding Window
 
-![image](C:\Users\avigu\OneDrive\Desktop\code\DSA\sliding window\Screenshot 2024-12-05 095309.png)
+![Screenshot 2024-12-05 095251](https://github.com/user-attachments/assets/5543a7fd-8d7d-49ad-9384-8087813588c3)
 
 In the fixed sliding window, the size of the window is the same length throughout the algorithm. In this case, we need scan subarrays of length 3 for the final result, so we initialize i and j to indices 0 and 2 and at every iteration we increment i and j by 1.
